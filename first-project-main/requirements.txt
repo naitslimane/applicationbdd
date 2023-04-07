@@ -1,4 +1,5 @@
 
 matplotlib
 statsmodels
-
+sqlite3
+pandas
