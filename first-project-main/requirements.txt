@@ -1,6 +1,9 @@
-
+pandas
 matplotlib
 statsmodels
-pmdarima
-pandas 
-
+folium
+add_parent_path
+kanilog
+pytest
+stdlogging
+arima
