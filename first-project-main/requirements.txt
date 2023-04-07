@@ -3,3 +3,4 @@ matplotlib
 statsmodels
 pmdarima
 pandas 
+sqlite3
